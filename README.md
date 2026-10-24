@@ -1,8 +1,24 @@
 ## Hi, I'm Sinan 👋
 
-Software Engineering graduate from **Manisa Celal Bayar University**. This profile collects the projects I built during my studies, from desktop apps and Python tools to my Unity graduation project.
+Junior full-stack developer and Software Engineering graduate (June 2026) from **Manisa Celal Bayar University**. I build web apps end to end with React, TypeScript, Node.js and PostgreSQL. Below are my personal and university projects.
 
 🌐 [sinanakcan.com](https://sinanakcan.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sinanakcan) · ✉️ sinanakcan2002@hotmail.com
+
+### 🚀 Featured project
+
+<table>
+<tr>
+<td width="55%" valign="top">
+<h4><a href="https://github.com/aqcan/prompterest-neon">Prompterest</a></h4>
+A prompt gallery for AI image generation that runs on the web and on Android. Browse prompts in a vertical feed, use an LLM to rewrite parts of a prompt (OpenRouter with a Hugging Face fallback), generate images with FLUX.1 and keep every change as a version. Built during my internship at Aslan Consulting (2026).<br><br>
+The JWT-secured REST API runs in Docker behind Nginx. AI keys stay on the server, and the API has scrypt password hashing, ownership checks and rate limiting.<br><br>
+<sub><b>React · TypeScript · Capacitor · Hono · Drizzle · PostgreSQL (Neon) · Docker · Vitest</b></sub>
+</td>
+<td width="45%" valign="top">
+<a href="https://github.com/aqcan/prompterest-neon"><img src="assets/prompterest-feed.jpg" width="31%" alt="Prompterest feed"> <img src="assets/prompterest-refactor.jpg" width="31%" alt="Prompterest AI refactor"> <img src="assets/prompterest-studio.jpg" width="31%" alt="Prompterest studio"></a>
+</td>
+</tr>
+</table>
 
 ### 🎓 University projects
 
@@ -35,8 +51,15 @@ Object-Oriented Programming course, team project (2021). Butcher shop automation
 </tr>
 </table>
 
-### 🛠️ Technologies used in these projects
+### 🛠️ Technologies
 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -46,4 +69,4 @@ Object-Oriented Programming course, team project (2021). Butcher shop automation
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 
-<sub>🇹🇷 Manisa Celal Bayar Üniversitesi Yazılım Mühendisliği mezunuyum. Burada okul süresince geliştirdiğim projeler yer alıyor.</sub>
+<sub>🇹🇷 Manisa Celal Bayar Üniversitesi Yazılım Mühendisliği mezunuyum (Haziran 2026), junior full-stack geliştiriciyim. Burada kişisel projelerim ve okul projelerim yer alıyor.</sub>
