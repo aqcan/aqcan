@@ -1,6 +1,6 @@
 ## Hi, I'm Sinan 👋
 
-Junior full-stack developer and Software Engineering graduate (June 2026) from **Manisa Celal Bayar University**. I build web apps end to end with React, TypeScript, Node.js and PostgreSQL. Below are my personal and university projects.
+Junior full-stack developer and Software Engineering graduate (June 2026) from **Manisa Celal Bayar University**. I build web apps end to end: React and TypeScript on the frontend, C# / ASP.NET MVC or Node.js (Hono) with PostgreSQL on the backend, and Docker to ship them. Below are my personal and university projects.
 
 🌐 [sinanakcan.com](https://sinanakcan.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sinanakcan) · ✉️ sinanakcan2002@hotmail.com
 
@@ -11,7 +11,7 @@ Junior full-stack developer and Software Engineering graduate (June 2026) from *
 <td width="55%" valign="top">
 <h4><a href="https://github.com/aqcan/prompterest-neon">Prompterest</a></h4>
 A prompt gallery for AI image generation that runs on the web and on Android. Browse prompts in a vertical feed, use an LLM to rewrite parts of a prompt (OpenRouter with a Hugging Face fallback), generate images with FLUX.1 and keep every change as a version. Built during my internship at Aslan Consulting (2026).<br><br>
-The JWT-secured REST API runs in Docker behind Nginx. AI keys stay on the server, and the API has scrypt password hashing, ownership checks and rate limiting.<br><br>
+The JWT-secured REST API was deployed with Docker behind Nginx (the demo is offline now). AI keys stay on the server, and the API has scrypt password hashing, ownership checks and rate limiting.<br><br>
 <sub><b>React · TypeScript · Capacitor · Hono · Drizzle · PostgreSQL (Neon) · Docker · Vitest</b></sub>
 </td>
 <td width="45%" valign="top">
@@ -73,6 +73,8 @@ Object-Oriented Programming course, team project (2021). Butcher shop automation
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
