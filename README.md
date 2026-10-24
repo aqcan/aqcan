@@ -20,6 +20,18 @@ The JWT-secured REST API runs in Docker behind Nginx. AI keys stay on the server
 </tr>
 </table>
 
+### 🧰 Small tools
+
+<table>
+<tr>
+<td valign="top">
+<h4><a href="https://github.com/aqcan/aqcancast">aqcancast</a></h4>
+My PC only has headphones, so I wrote this to stream its system audio to my phone's speaker over the home network. The browser captures the audio, a Node.js WebSocket relay forwards it as raw 24-bit PCM, and the phone plays it through a jitter buffer with packet-loss recovery.<br>
+<sub><b>Node.js · Express · WebSocket · Web Audio API</b></sub>
+</td>
+</tr>
+</table>
+
 ### 🎓 University projects
 
 <table>
